@@ -1,2 +1,5 @@
 day 4
 https://github.com/naelle0/day4.git
+
+day 6
+https://github.com/naelle0/day6.git
