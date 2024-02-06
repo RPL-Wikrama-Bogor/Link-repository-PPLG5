@@ -1,2 +1,4 @@
 Minggu 1
 https://github.com/raflyjulian/Minggu1.git
+minggu 2
+https://github.com/raflyjulian/minggu2
